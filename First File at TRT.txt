@@ -1,1 +1,3 @@
-Hi, everyone
+gitHi, everyone
+Hi again everyone   
+Ok, now I am adding this information to my branch
