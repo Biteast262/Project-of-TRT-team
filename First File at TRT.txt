@@ -1,9 +1,8 @@
 gitHi, everyone
 Hi, everyone
-<<<<<<< HEAD
+
 Ryan branch test!
 Hi again everyone  
-=======
 
->>>>>>> 9fdc8a0a454a6b076d1149d3faefe79736215969
+
 
