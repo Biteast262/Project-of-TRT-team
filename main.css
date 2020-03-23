@@ -11,10 +11,12 @@
 
 }
 .col-sm-4 {
-    background-color: rgb(231, 211, 211);
     height: 6rem;
    
 }
-.btn-group {
-    align-content: right;
+h1 {
+    font-family: 'Raleway', sans-serif; 
+    font-stretch: expanded;
+    font-weight: 700;
+    font-style: italic;
 }
