@@ -9,13 +9,13 @@
 }
 .col-sm-5 {
     background-color: aqua;
-    height: 20rem;
+    height: rem;
 
 
 }
 .col-sm-4 {
     background-color: gainsboro;
-    height: 10rem;
+    height: 8rem;
     padding-right: 5rem;
 }
 
