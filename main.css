@@ -2,7 +2,21 @@
      background-color: rgb(192, 198, 208);
  }
 
+.col-sm-6 {
+    background-color: pink;
+    padding-left: 2rem;
+
+}
+.col-sm-5 {
+    background-color: aqua;
+    height: rem;
 
 
+}
+.col-sm-4 {
+    background-color: gainsboro;
+    height: 8rem;
+    padding-right: 5rem;
+}
 
 
