@@ -1,22 +1,28 @@
- body {
-     background-color: rgb(192, 198, 208);
- }
-
+ 
 .col-sm-6 {
     background-color: pink;
-    padding-left: 2rem;
-
+   
+    
 }
 .col-sm-5 {
     background-color: aqua;
-    height: rem;
+    height: 16rem;
 
 
 }
 .col-sm-4 {
-    background-color: gainsboro;
-    height: 8rem;
-    padding-right: 5rem;
+    height: 6rem;
+   
 }
-
-
+.pp {
+    border: solid 2px rgb(0,51,153);
+    height: 200px;
+    width: 200px;
+    background-color: rgba(0, 230, 230, 0.5)
+}
+h1 {
+    font-family: 'Raleway', sans-serif; 
+    font-stretch: expanded;
+    font-weight: 700;
+    font-style: italic;
+}
