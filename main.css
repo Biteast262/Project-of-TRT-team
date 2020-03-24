@@ -13,6 +13,9 @@
     height: 6rem;
    
 }
+.col-sm-12 {
+        height: 2rem;
+ }
 .pp {
     border: solid 2px rgb(0,51,153);
     height: 150px;
