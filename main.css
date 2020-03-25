@@ -20,23 +20,18 @@
 
 .col-sm-12 {
         height: 2rem;
- }
-.pp {
-    border: solid 2px rgb(0,51,153);
-    height: 150px;
-    width: 150px;
-    background-color: rgba(0, 230, 230, 0.3);
-}
-.pp2 {
-    border: solid 2px rgb(0,51,153);
-    height: 250px;
-    width: 250px;
-    background-color: rgba(0, 230, 230, 0.3);
-
 }
 h1 {
     font-style: italic;
     color: rgb(0,51,153);
+}
+.card {
+    box-shadow: 10px rgb(192, 198, 208);
+}
+
+.card-header  {
+    background-image: linear-gradient(to right, rgb(0, 230, 230), rgb(0, 51, 153));
+    height: 4rem;
 }
 
 
