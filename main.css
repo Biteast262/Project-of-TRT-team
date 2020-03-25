@@ -1,0 +1,117 @@
+ 
+.col-sm-6 {
+    background-color: pink;
+   
+    
+}
+.col-sm-5 {
+    height: 16rem;
+
+
+}
+.col-sm-4 {
+    height: 6rem;
+   
+}
+.nav-menu {
+    height:6rem;
+    
+}
+
+.col-sm-12 {
+        height: 2rem;
+ }
+.pp {
+    border: solid 2px rgb(0,51,153);
+    height: 150px;
+    width: 150px;
+    background-color: rgba(0, 230, 230, 0.3);
+}
+.pp2 {
+    border: solid 2px rgb(0,51,153);
+    height: 250px;
+    width: 250px;
+    background-color: rgba(0, 230, 230, 0.3);
+
+}
+h1 {
+    font-style: italic;
+    color: rgb(0,51,153);
+}
+
+
+.container{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+    text-align: center;
+    
+}
+.plan-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+   
+  .container-two{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+    text-align: center;
+
+  }
+  .container-three{
+    display: block;
+    position: absolute;
+    margin-left: 60px;
+    text-align: center;
+  }
+
+  
+  .activity-text1{
+    position: absolute;
+    top: 20%;
+    left: 0%;  
+  }
+  .container-four{
+    display: block;
+    position: relative;
+    margin-right: 60px;
+    text-align: center;
+    float: right;
+    
+    
+ 
+  }
+  .activity-text2{
+    position: absolute;
+    top: 20%;
+    right: 0%;  
+
+  }
+  .container-five{
+    display: block;
+    position: relative;
+    margin-left: 250px;
+    margin-right: 100px;
+    width: 50;
+    text-align: center;
+    white-space: pre;
+
+  }
+  .activity-text3{
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+  }
+  
+    
+  
+
+  
