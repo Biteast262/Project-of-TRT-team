@@ -1,9 +1,8 @@
 
-.col-sm-5 {
-    height: 16rem;
-
-
+.container-fluid {
+margin: 1rem 1rem;
 }
+
 .col-sm-4 {
     height: 6rem;
    
@@ -21,7 +20,9 @@ h1 {
     color: rgb(0,51,153);
 }
 
-
+.card-deck {
+    margin: 1rem  1rem;
+}
 .card-header  {
     background-image: linear-gradient(to right, rgb(0, 230, 230), rgb(0, 51, 153));
     height: 4rem;
