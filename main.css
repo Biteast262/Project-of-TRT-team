@@ -28,8 +28,26 @@ h1 {
     height: 4rem;
 }
 .card-body { 
+    
     align-content: center;
     padding: 2rem;
+}
+h2 {
+    text-align: center;
+    color: rgb(0, 51, 153);
+    font-family:  'Oswald', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 0.2rem;
+   
+}
+h3 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.1rem;
+}
+p {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 0.1rem;
+
 }
   .box-1  {
     display: block;
@@ -49,7 +67,7 @@ h1 {
 }
 .modal-header {
  background-image: linear-gradient(to right, rgb(0, 230, 230), rgb(0, 51, 153));
- height: 10rem;
+ height: 8rem;
  text-align: center;
  
 }
