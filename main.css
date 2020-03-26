@@ -1,14 +1,8 @@
- 
-.col-sm-6 {
-    background-color: pink;
-   
-    
-}
-.col-sm-5 {
-    height: 16rem;
 
-
+.container-fluid {
+margin: 1rem 1rem;
 }
+
 .col-sm-4 {
     height: 6rem;
    
@@ -25,15 +19,23 @@ h1 {
     font-style: italic;
     color: rgb(0,51,153);
 }
-.card {
-    box-shadow: 10px rgb(192, 198, 208);
-}
 
+.card-deck {
+    margin: 1rem  1rem;
+}
 .card-header  {
     background-image: linear-gradient(to right, rgb(0, 230, 230), rgb(0, 51, 153));
     height: 4rem;
 }
-
+.card-body { 
+    align-content: center;
+    padding: 2rem;
+  .box-1  {
+    display: block;
+    position: relative;
+    height:300px;
+    width: 200px;
+=======
 .container-pre{
     display: block;
     position: relative;
@@ -150,11 +152,8 @@ h1 {
     position: relative;
     margin-right: 100px;
     text-align: center;
-    float: right;
-    
-    
- 
   }
+  
   .activity-text2{
     position: absolute;
     top: 20%;
@@ -177,4 +176,7 @@ h1 {
     left: 40%;
     transform: translate(-50%, -50%);
   }
+
+    
+
 
