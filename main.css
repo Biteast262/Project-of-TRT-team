@@ -42,16 +42,15 @@
 .container-pre{
     display: block;
     position: relative;
-    margin-left: 60px;
-    margin-right: auto;
+    margin-left: auto;
     width: 50;
-    padding-block: 50px;   
+    padding: 50px;   
   
 }
 .plan-text{
     position: absolute;
     top: 40%;
-    left: 4%;  
+    left: 7%;  
     text-align: center; 
 }
 
@@ -271,16 +270,25 @@
     top: 49%;
     right: 20%;
   }
-  .closing-container{
-        display: block;
-        position: relative;
-        margin-left: 60px;
-        margin-right: auto;
-        width: 50;
-        padding-block: 50px;  
-  }
-  
-
-    
-
-
+ 
+.cl-plan-text1{
+    position: absolute;
+    top: 77% ; 
+    left: 20px;
+    text-align: center; 
+ 
+}
+.cl-tool-text2{
+    position: absolute;
+    bottom: 10px ; 
+    left: 20px;
+    text-align: center; 
+ 
+}
+.cl-tool-text3{
+    position: absolute;
+    left: 20px;
+    text-align: center; 
+    margin-bottom: 10px;
+   
+}
