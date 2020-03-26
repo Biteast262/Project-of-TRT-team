@@ -1,25 +1,45 @@
-
 .container-fluid {
-margin: 1rem 1rem;
-}
-
-.col-sm-4 {
-    height: 6rem;
-   
-}
-.nav-menu {
-    height:6rem;
+    margin: 1rem 1rem;
+    }
     
-}
+    .col-sm-4 {
+        height: 6rem;
+       
+    }
+    .nav-menu {
+        height:6rem;
+        
+    }
+    
+    .col-sm-12 {
+            height: 2rem;
+    }
+    h1 {
+        font-style: italic;
+        color: rgb(0,51,153);
+    }
+    
+    .card-deck {
+        margin: 1rem  1rem;
+    }
+    .card-header  {
+        background-image: linear-gradient(to right, rgb(0, 230, 230), rgb(0, 51, 153));
+        height: 4rem;
+    }
+    .card-body { 
+        align-content: center;
+        padding: 2rem;
+    }
 
-.col-sm-12 {
-        height: 2rem;
-}
-h1 {
-    font-style: italic;
-    color: rgb(0,51,153);
-}
+    .box-1  {
+        display: block;
+        position: relative;
+        height:300px;
+        width: 200px;
+      }
+    
 
+/merge code 03-26 13:00
 .card-deck {
     margin: 1rem  1rem;
 }
@@ -85,7 +105,7 @@ h4 {
     font-weight: bolder;
     font-family: 'Raleway', sans-serif;
 }
-
+/* merge code 03-26 13:10 =======
 .container-pre{
     display: block;
     position: relative;
@@ -187,7 +207,7 @@ h4 {
   .container-three{
     display: block;
     position: absolute;
-    margin-left: 60px;
+    margin-left:300px;
     text-align: center;
   }
 
@@ -200,10 +220,13 @@ h4 {
   .container-four{
     display: block;
     position: relative;
-    margin-right: 100px;
+    margin-right: 300px;
     text-align: center;
+    float: right;
+    
+    
+ 
   }
-  
   .activity-text2{
     position: absolute;
     top: 20%;
@@ -213,19 +236,109 @@ h4 {
   .container-five{
     display: block;
     position: relative;
-    margin-left: 250px;
-    margin-right: 100px;
+    margin-left: 37%;
     width: 50;
     text-align: center;
-    white-space: pre;
-
+    padding-block: 40px;   
+  
   }
   .activity-text3{
     position: absolute;
     top: 50%;
-    left: 40%;
+    left: 21%;
     transform: translate(-50%, -50%);
   }
+  .container-six{
+    display: block;
+    position: absolute;
+    margin-left:300px;
+    text-align: center;
+    top: 65%;
+  }
+  .activity-text4{
+    position: absolute;
+    top: 20%;
+    left: 0%;  
+  }
+
+  .container-seven{
+    display: block;
+    position: absolute;
+    margin-left: 43%;
+    text-align: center;
+  }
+  .activity-text5{
+    position: absolute;
+    top: 20%;
+    left: 0%;
+  }
+  .container-eight{
+    display: block;
+    position: relative;
+    margin-right: 390px;
+    text-align: center;
+    float: right;
+  }
+   
+  .activity-text6{
+    position: absolute;
+    top: 20%;
+    right: 10%;  
+  }
+  .container-nine{
+    display: block;
+    position: absolute;
+    margin-left:300px;
+    text-align: center;
+    top: 90%;
+  }
+  .activity-text7{
+    position: absolute;
+    top: 20%;
+    left: 0%;  
+  }
+
+  .container-ten{
+    display: block;
+    position: absolute;
+    margin-left: 43%;
+    text-align: center;
+    top: 90%;
+  }
+  .activity-text8{
+    position: absolute;
+    top: 20%;
+    left: 0%;
+  }
+
+  .container-eleven{
+    display: block;
+    position: absolute;
+    margin-left: 43%;
+    text-align: center;
+    padding-block: 300px;
+  }
+
+  .activity-text9{
+    position: absolute;
+    top: 48%;
+    left: 20%;
+  }
+
+  .container-twelve{
+    display: block;
+    position: absolute;
+    margin-left: 63%;
+    text-align: center;
+    padding-block: 400px;
+ 
+  }
+  .activity-text10{
+    position: absolute;
+    top: 49%;
+    right: 20%;
+  }
+  
 
     
 
