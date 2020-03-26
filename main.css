@@ -30,13 +30,153 @@ h1 {
 .card-body { 
     align-content: center;
     padding: 2rem;
-
-}
-.box-1  {
+  .box-1  {
     display: block;
     position: relative;
     height:300px;
     width: 200px;
+=======
+.container-pre{
+    display: block;
+    position: relative;
+    margin-left: 60px;
+    margin-right: auto;
+    width: 50;
+    padding-block: 50px;   
+  
+}
+.plan-text{
+    position: absolute;
+    top: 40%;
+    left: 4%;  
+    text-align: center; 
+}
+
+.container-ini{
+    display: block;
+    position: absolute;
+    margin-left: auto;
+    width: 50;
     text-align: center;
+    white-space: pre; 
     
 }
+
+.ini-plan-text1{
+    position: absolute;
+    top: 30%;
+    left: 40%;  
+    text-align: center; 
+}
+
+.container-ini2{
+    display: block;
+    position: absolute;
+    margin-left: 60px;
+    margin-right: auto;
+    text-align: center;
+    width: 50; 
+    padding-top: 150px;
+}
+.ini-plan-text2{
+    position: absolute;
+    top: 30%;
+    left: 0%;  
+    text-align: center; 
+    padding-top: 100px;
+}
+    
+.container-ini3{
+    display: block;
+    position: absolute;
+    margin-left: 60px; 
+    text-align: center;
+    width: 50; 
+    padding-block: 220px;   
+}
+.ini-plan-text3{
+    position: absolute;
+    top: 50%;
+    left: 10%;  
+    text-align: center; 
+}
+.container-ini4{
+    display: block;
+    position: absolute;
+    margin-left: 60px;
+    margin-right: auto;
+    text-align: center;
+    width: 50; 
+    padding-block: 380px;
+
+}
+.ini-plan-text4{
+    position: absolute;
+    top: 50%;
+    left: 10%;  
+    text-align: center; 
+
+} 
+  .container-two{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+    text-align: center;
+
+  }
+.exe-plan-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+  .container-three{
+    display: block;
+    position: absolute;
+    margin-left: 60px;
+    text-align: center;
+  }
+
+  
+  .activity-text1{
+    position: absolute;
+    top: 20%;
+    left: 0%;  
+  }
+  .container-four{
+    display: block;
+    position: relative;
+    margin-right: 100px;
+    text-align: center;
+  }
+  
+  .activity-text2{
+    position: absolute;
+    top: 20%;
+    right: 0%;  
+
+  }
+  .container-five{
+    display: block;
+    position: relative;
+    margin-left: 250px;
+    margin-right: 100px;
+    width: 50;
+    text-align: center;
+    white-space: pre;
+
+  }
+  .activity-text3{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+  }
+
+    
+
+
